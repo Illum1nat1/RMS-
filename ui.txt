@@ -1,3 +1,0 @@
-Sunday Cafe
-chai,sandwich,bun maska,drip coffee,cold Coffee,Frappe,cold water
-10,200,220,180,99,80,10
